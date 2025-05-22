@@ -1,8 +1,8 @@
-# Connectify - Android Messaging Application
+# RealTimeChat - Android Messaging Application
 
 ## Overview
 
-**Connectify** is a comprehensive Android messaging application designed to offer a seamless and secure communication experience. Built with Core Java and integrating ZEGOCLOUD for voice and video calling, Connectify provides a range of features similar to popular messaging apps like WhatsApp, but with a unique design and user experience.
+**RealTimeChat** is a comprehensive Android messaging application designed to offer a seamless and secure communication experience. Built with Core Java and integrating ZEGOCLOUD for voice and video calling, RealTimeChat provides a range of features similar to popular messaging apps like WhatsApp, but with a unique design and user experience.
 
 ## Features
 
@@ -41,7 +41,3 @@
    - Designed a user-friendly interface that is easy to navigate.
    - Focused on delivering a clean and intuitive user experience.
 
-
-## Contact
-
-For any inquiries or issues, please contact Sk Anarul at skanarul8002@gmail.com.
